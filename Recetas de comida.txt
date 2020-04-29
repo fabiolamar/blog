@@ -3,5 +3,6 @@ Recetas de comida
 Desayunos: 
 Cereal con leche  
 
-Para la comida habra: 
+Comidas: 
+Crema de elote 
 Sopa fria 
