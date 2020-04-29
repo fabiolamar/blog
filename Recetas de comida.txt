@@ -1,8 +1,5 @@
 Recetas de comida 
 
-Desayunos: 
-Cereal con leche  
+Para los desayunos sera : 
 
-Comidas: 
-Crema de elote 
-Sopa fria 
+Se agregaran las diferentes comidas que pueden prepararse para la hora del desayuno 
