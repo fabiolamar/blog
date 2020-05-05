@@ -2,5 +2,4 @@ Comidas para toda la semana
 
 Para los desayunos sera : 
 
-Se agregaran las diferentes comidas que pueden prepararse para la hora del desayuno 
-kjg
+Se agregaran las diferentes comidas que pueden prepararse para la hora del desayuno
