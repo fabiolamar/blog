@@ -1,6 +1,6 @@
 body
 {
-    color: blue;
+    color: black;
     text-align: left;
     font-family: Arial;
     font-size: 16 px;
@@ -21,7 +21,7 @@ body
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 0.8em;
 }
 #container
@@ -29,9 +29,9 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #dddddd;
+    border: 1px solid #DDD;
     margin: 0 auto;
-}
+} 
 
 #container h1
 {
@@ -41,5 +41,12 @@ body
 #post 
 {
     padding: 1em;
+}
 
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
