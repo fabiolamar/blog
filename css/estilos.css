@@ -1,8 +1,7 @@
 body
 {
-    background: #1e1f24;
-    color:#333;
-    text-align: center;
+    color: black;
+    text-align: left;
     font-family: Arial;
     font-size: 16 px;
     margin: 0;
@@ -27,7 +26,7 @@ body
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 0.8em;
 }
 #container
@@ -35,9 +34,9 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #dddddd;
+    border: 1px solid #DDD;
     margin: 0 auto;
-}
+} 
 
 #container h1
 {
@@ -48,4 +47,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
