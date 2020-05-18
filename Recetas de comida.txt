@@ -7,3 +7,8 @@ Desayunos :
 -Chilaquiles 
 -Sopes 
 -Sandwiches 
+
+Comidas: 
+-Sopa de Fideos 
+-Carne polaca 
+-Chicarron en salsa
